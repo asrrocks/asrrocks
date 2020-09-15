@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I want to learn Guitar 🎸
 
 ### Spotify Playing 🎧
-[<img src="./1.jpeg" alt="Programmer Playlist" width="250" />](https://open.spotify.com/playlist/6vWEpKDjVitlEDrOmLjIAj?si=Zb83KCu8Qc-x3xo53r6TsQ)]
+[<img src="https://github.com/asrrocks/asrrocks/blob/master/1.jpeg" alt="Programmer Playlist" width="250" />](https://open.spotify.com/playlist/6vWEpKDjVitlEDrOmLjIAj?si=Zb83KCu8Qc-x3xo53r6TsQ)]
 
 ### Connect with me:
 
