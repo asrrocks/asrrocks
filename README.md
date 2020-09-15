@@ -65,7 +65,9 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=asrrocks&show_icons=true&hide_border=true&include_all_commits=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=asrrocks&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
+<br />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asrrocks&theme=radical" />
 
 [website]: https://fresume.in/anubhav
 [twitter]: https://twitter.com/ASRAnubhav
