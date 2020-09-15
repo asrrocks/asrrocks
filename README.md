@@ -1,7 +1,5 @@
 ### Hi there, I'm Anubhav Singh - [Portfolio][website] 👋
 
-[![Website](https://fresume.in/anubhav)](https://fresume.in/anubhav)
-
 ## I'm a Full Stack Web Developer, Entrepreneur, Tech Savvy and Constant Learner!
 
 - 🔭 I’m currently working as Managing Partner in Alphacode, Goa 💻
