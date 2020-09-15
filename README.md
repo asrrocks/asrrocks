@@ -1,4 +1,4 @@
-### Hi there, I'm Anubhav Singh - [Portfolio][website] 👋
+### Hi there, I'm [Anubhav Singh][website] 👋
 
 ## I'm a Full Stack Web Developer, Entrepreneur, Tech Savvy and Constant Learner!
 
