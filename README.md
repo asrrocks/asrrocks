@@ -55,7 +55,7 @@
 
 ---
 
-<img align="left" alt="Anubhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asrrocks&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=asrrocks&show_icons=true&hide_border=true" />
 
 [website]: https://fresume.in/anubhav
 [twitter]: https://twitter.com/ASRAnubhav
