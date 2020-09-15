@@ -42,13 +42,23 @@
 ---
 
 ### 📕 TECH YUVA - INSTAGRAM DEV COMMUNITY PAGE
-
-
-- [Popular Web Development Stack](https://www.instagram.com/p/CDlyOWPBvYt/)
-- [Web Designer and Developer)](https://www.instagram.com/p/CDnlwb5BF0R/)
-- [2020 Roadmap to learning Web Development](https://www.instagram.com/p/CDofdaGhIk_/)
-- [How to talk to clients](https://www.instagram.com/p/CEdWkSwDMz5/)
 - [Getting started with HTML](https://www.instagram.com/p/CFG_in3D2kJ/)
+- [5 Naming Styles for Programming](https://www.instagram.com/p/CE3lfCVDsDM/)
+- [Library VS Framework](https://www.instagram.com/p/CEoIzstDPef/)
+- [How to Talk to Client](https://www.instagram.com/p/CEdWkSwDMz5/)
+- [Tips to Write better HTML and CSS](https://www.instagram.com/p/CEULNTaD4W_/)
+- [How to Plan a Website](https://www.instagram.com/p/CELQRDuDgqK/)
+- [Common Mistakes Web Developers should Avoid](https://www.instagram.com/p/CEHF54pj-LW/)
+- [Skills VS Knowledge](https://www.instagram.com/p/CD-4ZZcjeSD/)
+- [Everything about HTTP Status Codes](https://www.instagram.com/p/CD754lEjPr4/)
+- [Basic GIT Commands](https://www.instagram.com/p/CD24-reBuTe/)
+- [GIT in Simple Term](https://www.instagram.com/p/CDx5rBohbQQ/)
+- [2020 Roadmap for Frontend Development](https://www.instagram.com/p/CDvH8ERBJwC/)
+- [Basic URL Structure](https://www.instagram.com/p/CDqmQQvhBo3/)
+- [How to talk to clients](https://www.instagram.com/p/CEdWkSwDMz5/)
+- [2020 Roadmap to learning Web Development](https://www.instagram.com/p/CDofdaGhIk_/)
+- [Web Designer and Developer)](https://www.instagram.com/p/CDnlwb5BF0R/)
+- [Popular Web Development Stack](https://www.instagram.com/p/CDlyOWPBvYt/)
 
 
 ➡️ [more such content...](https://instagram.com/tech.yuva)
