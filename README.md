@@ -34,6 +34,8 @@
 ---
 
 ### 📕 TECH YUVA - INSTAGRAM DEV COMMUNITY PAGE
+- [The MAP Tag](https://www.instagram.com/p/CFL1d23D8uw/)
+- [The FIGURE Tag](https://www.instagram.com/p/CFJP69hjVhz/)
 - [Getting started with HTML](https://www.instagram.com/p/CFG_in3D2kJ/)
 - [5 Naming Styles for Programming](https://www.instagram.com/p/CE3lfCVDsDM/)
 - [Library VS Framework](https://www.instagram.com/p/CEoIzstDPef/)
