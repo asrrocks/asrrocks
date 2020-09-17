@@ -34,6 +34,7 @@
 ---
 
 ### 📕 TECH YUVA - INSTAGRAM DEV COMMUNITY PAGE
+- [Show correct mobile keypad based on inputmode](https://www.instagram.com/p/CFOYMUcjTtv/)
 - [The MAP Tag](https://www.instagram.com/p/CFL1d23D8uw/)
 - [The FIGURE Tag](https://www.instagram.com/p/CFJP69hjVhz/)
 - [Getting started with HTML](https://www.instagram.com/p/CFG_in3D2kJ/)
@@ -51,7 +52,7 @@
 - [Basic URL Structure](https://www.instagram.com/p/CDqmQQvhBo3/)
 - [How to talk to clients](https://www.instagram.com/p/CEdWkSwDMz5/)
 - [2020 Roadmap to learning Web Development](https://www.instagram.com/p/CDofdaGhIk_/)
-- [Web Designer and Developer)](https://www.instagram.com/p/CDnlwb5BF0R/)
+- [Web Designer and Developer](https://www.instagram.com/p/CDnlwb5BF0R/)
 - [Popular Web Development Stack](https://www.instagram.com/p/CDlyOWPBvYt/)
 
 
