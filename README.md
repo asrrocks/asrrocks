@@ -34,6 +34,9 @@
 ---
 
 ### 📕 TECH YUVA - INSTAGRAM DEV COMMUNITY PAGE
+##### LATEST 20 POSTS
+- [Highlight Text using mark tag](https://www.instagram.com/p/CFTZ-_fjFjb/)
+- [Color Picker](https://www.instagram.com/p/CFQ5MqnjbUm/)
 - [Show correct mobile keypad based on inputmode](https://www.instagram.com/p/CFOYMUcjTtv/)
 - [The MAP Tag](https://www.instagram.com/p/CFL1d23D8uw/)
 - [The FIGURE Tag](https://www.instagram.com/p/CFJP69hjVhz/)
@@ -52,9 +55,6 @@
 - [Basic URL Structure](https://www.instagram.com/p/CDqmQQvhBo3/)
 - [How to talk to clients](https://www.instagram.com/p/CEdWkSwDMz5/)
 - [2020 Roadmap to learning Web Development](https://www.instagram.com/p/CDofdaGhIk_/)
-- [Web Designer and Developer](https://www.instagram.com/p/CDnlwb5BF0R/)
-- [Popular Web Development Stack](https://www.instagram.com/p/CDlyOWPBvYt/)
-
 
 ➡️ [more such content...](https://instagram.com/tech.yuva)
 
