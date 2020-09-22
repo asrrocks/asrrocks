@@ -35,6 +35,9 @@
 
 ### 📕 TECH YUVA - INSTAGRAM DEV COMMUNITY PAGE
 ##### LATEST 20 POSTS
+- [Expand / Collapse](https://www.instagram.com/p/CFbRDjgjM89/)
+- [Measuring Progress with <progress> and <meter>](https://www.instagram.com/p/CFY8fLXDc9m/)
+- [Dropdown text with searchable text](https://www.instagram.com/p/CFWGYG_jTSG/)
 - [Highlight Text using mark tag](https://www.instagram.com/p/CFTZ-_fjFjb/)
 - [Color Picker](https://www.instagram.com/p/CFQ5MqnjbUm/)
 - [Show correct mobile keypad based on inputmode](https://www.instagram.com/p/CFOYMUcjTtv/)
@@ -52,9 +55,6 @@
 - [Basic GIT Commands](https://www.instagram.com/p/CD24-reBuTe/)
 - [GIT in Simple Term](https://www.instagram.com/p/CDx5rBohbQQ/)
 - [2020 Roadmap for Frontend Development](https://www.instagram.com/p/CDvH8ERBJwC/)
-- [Basic URL Structure](https://www.instagram.com/p/CDqmQQvhBo3/)
-- [How to talk to clients](https://www.instagram.com/p/CEdWkSwDMz5/)
-- [2020 Roadmap to learning Web Development](https://www.instagram.com/p/CDofdaGhIk_/)
 
 ➡️ [more such content...](https://instagram.com/tech.yuva)
 
